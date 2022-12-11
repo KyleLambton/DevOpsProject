@@ -7,11 +7,11 @@ GET http://localhost:4000/Products/identifiers
 
 ###
 //Get One By Id
-GET http://localhost:3000/Products/638c12f5f20f7baa621eb72f
+GET http://localhost:4000/Products/63951dbd51f9a279fec5062c
 
 ###
 //Get Field
-GET http://localhost:3000/Products/638c12f5f20f7baa621eb72f/name
+GET http://localhost:4000/Products/6395198d14ba4ce98493fb04/endingDateAvilable
 
 ###
 //Get Image
@@ -27,7 +27,7 @@ Content-Type: application/json
   "price": 29.99,
   "colour": "Green",
   "manufacturer": "Kayak People",
-  "startingDateAvailable": "nov 21 1991",
+  "startingDatgit saveAvailable": "nov 21 1991",
   "endingDateAvailable": "july 18 2760",
   "image": "awrwa.jpg",
   "description": "Test API",

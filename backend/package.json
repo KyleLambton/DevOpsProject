@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "nodemon server.js",
-    "InitDatabase": "node InitDatabase/Inserts.js"
+    "InitDb": "node InitDatabase/Inserts.js"
   },
   "keywords": [],
   "author": "",
